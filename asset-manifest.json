@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rinradee.github.io/static/css/main.42b2fc32.css",
+    "main.js": "/rinradee.github.io/static/js/main.5929df79.js",
+    "static/js/787.1ed0c42c.chunk.js": "/rinradee.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/propic.jpg": "/rinradee.github.io/static/media/propic.9a4c2bf441d6e91275f3.jpg",
+    "index.html": "/rinradee.github.io/index.html",
+    "main.42b2fc32.css.map": "/rinradee.github.io/static/css/main.42b2fc32.css.map",
+    "main.5929df79.js.map": "/rinradee.github.io/static/js/main.5929df79.js.map",
+    "787.1ed0c42c.chunk.js.map": "/rinradee.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b2fc32.css",
+    "static/js/main.5929df79.js"
+  ]
+}
